@@ -55,7 +55,7 @@ NexteraWeb is powered by a talented team of skilled developers and designers who
 
 - **Mahmudul Hasan**  
   *Dedicated web developer and expert in React and JavaScript, adept at implementing efficient, high-performance code.*  
-  [GitHub: mahmudulhasan](https://github.com/mahmudulhasan)
+  [GitHub: Marimo-103](https://github.com/Marimo-103)
 
 ---
 
