@@ -51,7 +51,7 @@ NexteraWeb is powered by a talented team of skilled developers and designers who
 
 - **Abdul Kadir**  
   *Expert in React and JavaScript, detail-oriented and passionate about delivering high-quality, functional templates.*  
-  [GitHub: abdulkadir](https://github.com/abdulkadir)
+  [GitHub: abdulKadir112](https://github.com/abdulKadir112)
 
 - **Mahmudul Hasan**  
   *Dedicated web developer and expert in React and JavaScript, adept at implementing efficient, high-performance code.*  
