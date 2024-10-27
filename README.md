@@ -77,7 +77,7 @@ NexteraWeb is powered by a talented team of skilled developers and designers who
 
 ## 📬 Contact Us
 
-For inquiries or to explore how NexteraWeb can assist you in creating ThemeForest-approved templates, please reach out at [arakash.developer@gmail.com](mailto:arakash.developer@gmail.com).
+For inquiries or to explore how NexteraWeb can assist you in creating ThemeForest-approved templates.
 
 ---
 
