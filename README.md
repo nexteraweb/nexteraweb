@@ -43,7 +43,7 @@ NexteraWeb is powered by a talented team of skilled developers and designers who
 
 - **Atiqur Rahman Akash**  
   *Expert in Next.js, React, Redux, JavaScript, GSAP, and Figma/Adobe XD for UI design.*  
-  [GitHub: arakash](https://github.com/arakash)
+  [GitHub: arakash-developer](https://github.com/arakash-developer)
 
 - **Shamima Akhter Polly**  
   *Expert in React and JavaScript, known for her creativity and dedication.*  
